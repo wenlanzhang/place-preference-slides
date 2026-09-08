@@ -7,5 +7,3 @@ This repository contains **only** the presentation. The analysis code and data l
 **Slides:** https://www.zhangwenlan.com/place-preference-slides/
 
 Arrow keys or space to advance. `F` fullscreen. `Esc` overview.
-
-The page is public at that URL (with `noindex`). Please do not circulate beyond the project group until the paper is out.
